@@ -19,7 +19,7 @@
                     <input placeholder="Введите логин" type="text" size="20" name="j_username"></p>
                 <p><strong>Пароль:</strong>
                     <input placeholder="Введите пароль" type="password" size="20" name="j_password"></p>
-                <p><input type="submit" value="Авторизоваться"></p>
+                <p><input type="submit" value="Авторизоватьсяz"></p>
             </div>
         </form>
     </body>
